@@ -1,35 +1,37 @@
 ---
 title: "Ana Sofia Escobedo Muñoz"
-image: "B.subtilis_red.jpg"
+image: "pfp.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  - label: Research Gate 
+    url: "https://www.researchgate.net/profile/Ana-Escobedo-Munoz"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/AnSoEsMu"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/AnaSofiaEscobedo"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:aescobed@lcg.unam.mx"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Las manzanas son peligrosas
+¡Hola!, soy Sofia, estudiante de la licenciatura en ciencias genomcias en la UNAM campus Cuernavaca. Me encantan las bacterias y todo lo que tenga que ver con ellas. 
 
-## Education
+Solo miralas, ¡son preciosas!
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+![](/home/aescobed/AnaSofiaEscobedo.github.io/B.subtilis_red.jpg)
 
-Ph.D. in Computer Science | September 2009 - May 2014
+## Lineas de trabajo
 
-**The University of California, Berkeley** | Berkeley, CA
+- Bioinformatica comparativa
 
-B.S. in Computer Science | September 2005 - May 2009
+- Analisis de genomas
 
-## Experience
+- Microbiologia experimental
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+- Biologia de sistemas
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+## ¿Qué temas me interesan?
+
+Microbiologia industrial, biologia sintetica, analisis de lenguaje natural, biotecnologia, etc.
